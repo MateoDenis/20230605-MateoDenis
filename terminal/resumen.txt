@@ -1,0 +1,5 @@
+ls -l
+git push origin master
+git init
+clear
+history

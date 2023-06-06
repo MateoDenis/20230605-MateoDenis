@@ -1,0 +1,3 @@
+cpu
+memoria ram
+memoria rom
